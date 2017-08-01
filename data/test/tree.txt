@@ -1,0 +1,23 @@
+Tree with 21 nodes and depth = 4
+
+() Node level = 0, word 484 = writes, entropy = 0.77843213154, info_gain = 0,557546329953
+		(absent) Node level = 1, word 211 = god, entropy = 0.627778099219, info_gain = 0.150654032321
+				(absent) Node level = 2, word 152 = that, entropy = 0.56712720864, info_gain = 0.060650890579
+						(absent) Node level = 3, word 73 = bible, entropy = 0.312550394652, info_gain = 0.254576813988
+								(absent) Node level = 4, entropy = 0.316316235875
+				 				(present) Node level = 4, entropy = -1.44268782747e-05
+			 			(present) Node level = 3, word 186 = atoms, entropy = 0.809275627944, info_gain = 0.242148419304
+			 					(absent) Node level = 4, entropy = 0.811249270943
+				 				(present) Node level = 4, entropy = 0.797297656641
+		 		(present) Node level = 2, word 183 = use, entropy = 0.12498376978, info_gain = 0.502794329439
+		 				(absent) Node level = 3, entropy = -1.44268782747e-05
+			 			(present) Node level = 3, word 0 = archive, entropy = -1.44268782747e-05, info_gain = 0.124998196658
+			 					(absent) Node level = 4, entropy = -1.44268782747e-05
+				 				(present) Node level = 4, entropy = -1.44268782747e-05
+		(present) Node level = 1, word 3141 = imaging, entropy = 0.708200362274, info_gain = 0.0702317692656
+				(absent) Node level = 2, word 2107 = distribution, entropy = 0.665541746134, info_gain = 0.0426586161398
+						(absent) Node level = 3, word 152 = that, entropy = 0.604613647117, info_gain = 0.060928099017
+								(absent) Node level = 4, entropy = 0.991728170797
+				 				(present) Node level = 4, entropy = 0.487340717885
+			 			(present) Node level = 3, entropy = -1.44268782747e-05
+				(present) Node level = 2, entropy = -1.44268782747e-05
